@@ -5,7 +5,7 @@
 
 <p align="center"><br>
   <a href="https://github.com/asrarsyed/wallpapers/stargazers"> <img alt="Stargazers" src="https://img.shields.io/github/stars/asrarsyed/wallpapers?style=for-the-badge&logo=starship&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
-  <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/asrarsyed/wallpapers/All?style=for-the-badge&label=Wallpapers&color=B5E8E0&labelColor=302D41">
+<!-- <img alt="GitHub" src="https://img.shields.io/github/directory-file-count/asrarsyed/wallpapers/All?&style=for-the-badge&label=Wallpapers&color=B5E8E0&labelColor=302D41"> -->
   <a href="https://mit-license.org/"> <img alt="License" src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge&color=B5E8E0&logoColor=D9E0EE&labelColor=302D41"></a>
 </p>
 
